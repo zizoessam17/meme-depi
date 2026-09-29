@@ -1,0 +1,6 @@
+body {
+  background: #00008b;
+}
+.view .memeImg {
+  max-height: 60vh;
+}
